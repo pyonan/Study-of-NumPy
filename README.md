@@ -1,7 +1,4 @@
 # Study-of-Numpy
-## Name- Srushti J. Nalawade
-## PRN- 25070123157
-## Batch- A1
 ## Aim:
 To study the NumPy library and perform basic operations on NumPy arrays.
 ## Objectives 
